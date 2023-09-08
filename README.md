@@ -1,4 +1,5 @@
 # SagarTech
 This is my first Git Repository
 <br>
-Author - Sagar Singh
+Author - Sagar (coder)
+
